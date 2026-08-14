@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-outreach-automation",
+  "version": "1.0.0",
+  "description": "Automação de prospecção via WhatsApp com fila, intervalos aleatórios, controle de envio e retomada automática.",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "node-cron": "^3.0.3",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
