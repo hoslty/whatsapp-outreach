@@ -14,8 +14,8 @@ const config = {
     windows: parseWindows(process.env.BUSINESS_HOURS_WINDOWS || '09:00-11:30,14:00-16:30'),
   },
   interval: {
-    minMinutes: Number(process.env.MIN_INTERVAL_MINUTES || 1),
-    maxMinutes: Number(process.env.MAX_INTERVAL_MINUTES || 3),
+    minMinutes: Number(process.env.MIN_INTERVAL_MINUTES || 2),
+    maxMinutes: Number(process.env.MAX_INTERVAL_MINUTES || 4),
   },
   logDir: process.env.LOG_DIR || './logs',
 };

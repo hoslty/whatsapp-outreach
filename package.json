@@ -19,5 +19,13 @@
   "devDependencies": {},
   "engines": {
     "node": ">=18"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoslty/whatsapp-outreach.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hoslty/whatsapp-outreach/issues"
+  },
+  "homepage": "https://github.com/hoslty/whatsapp-outreach#readme"
 }

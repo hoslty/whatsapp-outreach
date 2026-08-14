@@ -24,9 +24,9 @@ const INTRODUCAO = 'Sou Pedro, desenvolvedor de sites pra escritórios de advoca
 // 3. Corpo padrão (área não identificada).
 const CORPO_PADRAO = {
   semSite: (nome) =>
-    `Vi seu perfil no Google e notei que vocês ainda não têm site, isso ajuda bastante a trazer clientes novos direto pelo WhatsApp.`,
+    `Vi seu perfil no Google e notei que vocês ainda não têm um site profissional, isso ajuda bastante a trazer clientes novos direto pelo WhatsApp.`,
   soRedeSocial: (nome) =>
-    `Vi seu perfil no google e notei que o contato ainda é só pelo Instagram/WhatsApp. Um site próprio ajuda a passar mais credibilidade e centraliza os contatos.`,
+    `Vi seu perfil no google e notei que o contato ainda é só pelo Instagram/WhatsApp. Um site profissional próprio ajuda a passar mais credibilidade e centraliza os contatos.`,
 };
 
 // 4. Corpo com área de atuação identificada.
