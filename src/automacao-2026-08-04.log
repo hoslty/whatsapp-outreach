@@ -1,0 +1,57 @@
+[04/08/2026, 09:30:46] [INFO] Iniciando automação de prospecção.
+[04/08/2026, 09:31:02] [INFO] QR Code gerado. Escaneie com o WhatsApp (Aparelhos conectados → Conectar um aparelho).
+[04/08/2026, 09:32:01] [INFO] QR Code gerado. Escaneie com o WhatsApp (Aparelhos conectados → Conectar um aparelho).
+[04/08/2026, 09:32:21] [INFO] QR Code gerado. Escaneie com o WhatsApp (Aparelhos conectados → Conectar um aparelho).
+[04/08/2026, 09:32:41] [INFO] QR Code gerado. Escaneie com o WhatsApp (Aparelhos conectados → Conectar um aparelho).
+[04/08/2026, 09:33:11] [INFO] Sessão autenticada com sucesso.
+[04/08/2026, 09:33:11] [INFO] Sessão autenticada com sucesso.
+[04/08/2026, 09:33:11] [INFO] Sessão autenticada com sucesso.
+[04/08/2026, 09:33:11] [INFO] Sessão autenticada com sucesso.
+[04/08/2026, 09:33:11] [INFO] Sessão autenticada com sucesso.
+[04/08/2026, 09:33:14] [INFO] Cliente do WhatsApp pronto.
+[04/08/2026, 09:33:14] [INFO] Fila com 21 contato(s) pendente(s).
+[04/08/2026, 09:33:19] [INFO] Enviado para Escritório de Advocacia Lucas Correia Rocha (+55 75 99881-1077)
+[04/08/2026, 09:33:19] [INFO] Aguardando 103s antes do próximo envio.
+[04/08/2026, 09:35:04] [INFO] Enviado para Jarbas Advocacia e Regularização Imobiliária (+55 75 99922-0710)
+[04/08/2026, 09:35:04] [INFO] Aguardando 116s antes do próximo envio.
+[04/08/2026, 09:37:01] [INFO] Enviado para CCP Advogados Associados (+55 75 3022-5829)
+[04/08/2026, 09:37:01] [INFO] Aguardando 83s antes do próximo envio.
+[04/08/2026, 09:38:25] [INFO] Sessão autenticada com sucesso.
+[04/08/2026, 09:38:29] [INFO] Cliente do WhatsApp pronto.
+[04/08/2026, 09:38:38] [INFO] Enviado para Martins e Nascimento - Advocacia e Consultoria (+55 75 98186-9703)
+[04/08/2026, 09:38:38] [INFO] Aguardando 87s antes do próximo envio.
+[04/08/2026, 09:40:06] [INFO] Enviado para Araujo e Falcão - Advogados Trabalhista e Consumidor (+55 75 99100-0771)
+[04/08/2026, 09:40:06] [INFO] Aguardando 65s antes do próximo envio.
+[04/08/2026, 09:41:11] [INFO] Enviado para Pinheiro & Santana advogados (+55 75 99709-1777)
+[04/08/2026, 09:41:11] [INFO] Aguardando 63s antes do próximo envio.
+[04/08/2026, 09:42:15] [INFO] Enviado para Góes & Filgueiras Assessoria Jurídica (+55 75 99205-5150)
+[04/08/2026, 09:42:15] [INFO] Aguardando 73s antes do próximo envio.
+[04/08/2026, 09:43:29] [INFO] Enviado para Veloso e Gomes Advocacia (+55 75 3021-1484)
+[04/08/2026, 09:43:29] [INFO] Aguardando 90s antes do próximo envio.
+[04/08/2026, 09:45:00] [INFO] Enviado para Gomes Ribeiro - Advocacia e Assessoria Jurídica (+55 75 99922-6985)
+[04/08/2026, 09:45:00] [INFO] Aguardando 118s antes do próximo envio.
+[04/08/2026, 09:46:58] [INFO] Enviado para Verbenia Carneiro | Isadora Araujo Advogados Associados (+55 75 3199-0650)
+[04/08/2026, 09:46:58] [INFO] Aguardando 115s antes do próximo envio.
+[04/08/2026, 09:48:54] [INFO] Enviado para Correia Advogados (+55 75 99866-4755)
+[04/08/2026, 09:48:54] [INFO] Aguardando 96s antes do próximo envio.
+[04/08/2026, 09:50:30] [INFO] Enviado para Escritório de Advocacia - Feira de Santana (+55 71 99646-0642)
+[04/08/2026, 09:50:30] [INFO] Aguardando 69s antes do próximo envio.
+[04/08/2026, 09:51:40] [INFO] Enviado para Fernandes & Souza Advogados (+55 75 99938-4400)
+[04/08/2026, 09:51:40] [INFO] Aguardando 77s antes do próximo envio.
+[04/08/2026, 09:52:57] [INFO] Enviado para Serra & Leite Advocacia (+55 75 99192-0424)
+[04/08/2026, 09:52:57] [INFO] Aguardando 73s antes do próximo envio.
+[04/08/2026, 09:54:10] [ERROR] Erro ao enviar para Escritório de Advocacia - Feira de Santana (Ed. Multiplace): Número não encontrado no WhatsApp: +55 75 3226-4849
+[04/08/2026, 09:54:10] [INFO] Aguardando 108s antes do próximo envio.
+[04/08/2026, 09:55:58] [ERROR] Erro ao enviar para Araújo E Braz Escritório de Advocacia: Número não encontrado no WhatsApp: +55 75 3303-0260
+[04/08/2026, 09:55:58] [INFO] Aguardando 90s antes do próximo envio.
+[04/08/2026, 09:57:28] [ERROR] Erro ao enviar para Dr. Péricles Novais: Número não encontrado no WhatsApp: +55 75 3021-0926
+[04/08/2026, 09:57:28] [INFO] Aguardando 100s antes do próximo envio.
+[04/08/2026, 09:59:09] [INFO] Enviado para Julio Gomes Advogado (+55 75 98192-4839)
+[04/08/2026, 09:59:09] [INFO] Aguardando 118s antes do próximo envio.
+[04/08/2026, 10:01:08] [INFO] Enviado para Alex Ribeiro Escritório de Advocacia (+55 75 99179-1212)
+[04/08/2026, 10:01:08] [INFO] Aguardando 113s antes do próximo envio.
+[04/08/2026, 10:03:01] [INFO] Enviado para Jéssica Araujo Advocacia (+55 75 99196-4593)
+[04/08/2026, 10:03:01] [INFO] Aguardando 66s antes do próximo envio.
+[04/08/2026, 10:04:07] [INFO] Enviado para Barbara Lemos Sociedade Individual de Advocacia (+55 75 98898-4396)
+[04/08/2026, 10:04:07] [INFO] Fila finalizada.
+[04/08/2026, 10:04:07] [INFO] Campanha finalizada.
