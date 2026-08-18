@@ -23,9 +23,9 @@ const INTRODUCAO = 'Me chamo Pedro, encontrei a empresa de vocês no Google e vi
 // 3. Corpo padrão (área não identificada).
 const CORPO_PADRAO = {
   semSite: (nome) =>
-    `Eu trabalho criando páginas focadas em transformar visitantes em contatos no WhatsApp.`,
+    `Eu trabalho criando páginas focadas de alta conversão em contatos no WhatsApp.`,
   soRedeSocial: (nome) =>
-    `Eu trabalho criando páginas focadas em transformar visitantes em contatos no WhatsApp.`,
+    `Eu trabalho criando páginas focadas de alta conversão em contatos no WhatsApp.`,
 };
 
 // 4. Corpo com área de atuação identificada.
