@@ -18,7 +18,7 @@ const SAUDACOES = [
   'Oi, tudo bem?',
 ];
 
-const INTRODUCAO = 'Me chamo Pedro e encontrei a empresa de vocês no Google e vi que vocês ainda não têm um site profissional.';
+const INTRODUCAO = 'Me chamo Pedro, encontrei a empresa de vocês no Google e vi que vocês ainda não têm um site profissional.';
 
 // 3. Corpo padrão (área não identificada).
 const CORPO_PADRAO = {
