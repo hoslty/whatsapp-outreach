@@ -11,6 +11,7 @@ function garantirPastaDeLogs() {
 
 function caminhoDoArquivoDeLog() {
   return path.join(config.logDir, `automacao-${dataAtualISO()}.log`);
+  return path.join(config.logDir, `automacao-${dataAtualISO()}.txt`);
 }
 
 function escrever(nivel, mensagem) {
