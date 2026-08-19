@@ -15,24 +15,24 @@ const MAPA_AREAS = {
 
 // 2. Saudações variadas, para não repetir o mesmo texto em sequência.
 const SAUDACOES = [
-  'Oi, tudo bem?',
+  'Oi, Dr(a) tudo bem?',
 ];
 
-const INTRODUCAO = 'Me chamo Pedro, encontrei a empresa de vocês no Google e vi que vocês ainda não têm um site profissional.';
+const INTRODUCAO = 'Me chamo Pedro, trabalho criando sites profissionais para escritórios de advocacia aqui na região.';
 
 // 3. Corpo padrão (área não identificada).
 const CORPO_PADRAO = {
   semSite: (nome) =>
-    `Eu trabalho criando páginas focadas de alta conversão em contatos no WhatsApp.`,
+    `Se eu te mandar um exemplo de uma página que fiz para uma advocacia, você dá uma olhada?.`,
   soRedeSocial: (nome) =>
-    `Eu trabalho criando páginas focadas de alta conversão em contatos no WhatsApp.`,
+    `Se eu te mandar um exemplo de uma página que fiz para uma advocacia, você dá uma olhada?.`,
 };
 
 // 4. Corpo com área de atuação identificada.
-const CORPO_COM_AREA = (nome, area, cidade) =>
+const CORPO_COM_AREA = (nome, area, cidade) => 
   `Vi que seu pefil atua com ${area} em ${cidade} e ainda não tem site, isso ajuda bastante a atrair quem já busca advogado de ${area} no Google.`;
 
-const FECHO = 'Posso te mostrar um exemplo de uma página para a ultima advocacia que conversei?';
+const FECHO = 'Se eu te mandar um exemplo de uma página que fiz para uma advocacia, você dá uma olhada?';
 
 function sortear(lista) {
   return lista[Math.floor(Math.random() * lista.length)];
