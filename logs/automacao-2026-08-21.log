@@ -1,0 +1,112 @@
+[21/08/2026, 10:18:14] [INFO] Iniciando automação de prospecção.
+[21/08/2026, 10:19:27] [INFO] Sessão autenticada com sucesso.
+[21/08/2026, 10:19:30] [INFO] Cliente do WhatsApp pronto.
+[21/08/2026, 10:19:30] [INFO] Fila com 37 contato(s) pendente(s).
+[21/08/2026, 10:19:30] [ERROR] Erro ao enviar para Advprev: FECHO is not defined
+[21/08/2026, 10:19:30] [INFO] Aguardando 70s antes do próximo envio.
+[21/08/2026, 10:20:40] [ERROR] Erro ao enviar para Sociedade Civil Trabalhista: FECHO is not defined
+[21/08/2026, 10:20:40] [INFO] Aguardando 96s antes do próximo envio.
+[21/08/2026, 10:21:51] [INFO] Iniciando automação de prospecção.
+[21/08/2026, 10:22:04] [INFO] Sessão autenticada com sucesso.
+[21/08/2026, 10:22:07] [INFO] Cliente do WhatsApp pronto.
+[21/08/2026, 10:22:07] [INFO] Fila com 37 contato(s) pendente(s).
+[21/08/2026, 10:22:07] [ERROR] Erro ao enviar para Advprev: FECHO is not defined
+[21/08/2026, 10:22:07] [INFO] Aguardando 84s antes do próximo envio.
+[21/08/2026, 10:23:31] [ERROR] Erro ao enviar para Sociedade Civil Trabalhista: FECHO is not defined
+[21/08/2026, 10:23:31] [INFO] Aguardando 86s antes do próximo envio.
+[21/08/2026, 10:24:57] [ERROR] Erro ao enviar para Advogado JOHN CARVALHO: FECHO is not defined
+[21/08/2026, 10:24:57] [INFO] Aguardando 94s antes do próximo envio.
+[21/08/2026, 10:25:16] [INFO] Iniciando automação de prospecção.
+[21/08/2026, 10:25:20] [INFO] Iniciando automação de prospecção.
+[21/08/2026, 10:25:33] [INFO] Sessão autenticada com sucesso.
+[21/08/2026, 10:25:36] [INFO] Cliente do WhatsApp pronto.
+[21/08/2026, 10:25:36] [INFO] Fila com 37 contato(s) pendente(s).
+[21/08/2026, 10:25:36] [ERROR] Erro ao enviar para Advprev: CORPO_COM_AREA is not defined
+[21/08/2026, 10:25:36] [INFO] Aguardando 99s antes do próximo envio.
+[21/08/2026, 10:26:53] [INFO] Iniciando automação de prospecção.
+[21/08/2026, 10:26:58] [INFO] Iniciando automação de prospecção.
+[21/08/2026, 10:27:11] [INFO] Sessão autenticada com sucesso.
+[21/08/2026, 10:27:13] [INFO] Cliente do WhatsApp pronto.
+[21/08/2026, 10:27:13] [INFO] Fila com 37 contato(s) pendente(s).
+[21/08/2026, 10:27:13] [ERROR] Erro ao enviar para Advprev: Número não encontrado no WhatsApp: +55 77 3421-5726
+[21/08/2026, 10:27:13] [INFO] Aguardando 115s antes do próximo envio.
+[21/08/2026, 10:29:08] [ERROR] Erro ao enviar para Sociedade Civil Trabalhista: Número não encontrado no WhatsApp: +55 77 3421-2551
+[21/08/2026, 10:29:08] [INFO] Aguardando 104s antes do próximo envio.
+[21/08/2026, 10:30:52] [ERROR] Erro ao enviar para Advogado JOHN CARVALHO: Número não encontrado no WhatsApp: +55 77 99872-1260
+[21/08/2026, 10:30:52] [INFO] Aguardando 64s antes do próximo envio.
+[21/08/2026, 10:31:57] [ERROR] Erro ao enviar para Weliton's Advogados & Associados: Número não encontrado no WhatsApp: +55 77 99812-4299
+[21/08/2026, 10:31:57] [INFO] Aguardando 87s antes do próximo envio.
+[21/08/2026, 10:33:24] [INFO] Enviado para Dantas & Marques Advogados (+55 77 98143-9333)
+[21/08/2026, 10:33:24] [INFO] Aguardando 67s antes do próximo envio.
+[21/08/2026, 10:34:31] [INFO] Enviado para Ramos & Oliveira Advogados (+55 77 98844-4191)
+[21/08/2026, 10:34:31] [INFO] Aguardando 108s antes do próximo envio.
+[21/08/2026, 10:36:20] [INFO] Enviado para Ana Magalhães Advocacia (+55 71 98790-6333)
+[21/08/2026, 10:36:20] [INFO] Aguardando 65s antes do próximo envio.
+[21/08/2026, 10:37:26] [INFO] Enviado para Araújo & Lopes Advocacia (+55 77 98107-7317)
+[21/08/2026, 10:37:26] [INFO] Aguardando 89s antes do próximo envio.
+[21/08/2026, 10:38:56] [INFO] Enviado para Túllio Mikael Nolasco Advocacia (+55 77 98812-2128)
+[21/08/2026, 10:38:56] [INFO] Aguardando 102s antes do próximo envio.
+[21/08/2026, 10:39:43] [INFO] Iniciando automação de prospecção.
+[21/08/2026, 10:39:57] [INFO] Sessão autenticada com sucesso.
+[21/08/2026, 10:40:00] [INFO] Cliente do WhatsApp pronto.
+[21/08/2026, 10:40:00] [INFO] Fila com 32 contato(s) pendente(s).
+[21/08/2026, 10:40:00] [ERROR] Erro ao enviar para Advprev: Número não encontrado no WhatsApp: +55 77 3421-5726
+[21/08/2026, 10:40:00] [INFO] Aguardando 99s antes do próximo envio.
+[21/08/2026, 10:41:39] [ERROR] Erro ao enviar para Sociedade Civil Trabalhista: Número não encontrado no WhatsApp: +55 77 3421-2551
+[21/08/2026, 10:41:39] [INFO] Aguardando 119s antes do próximo envio.
+[21/08/2026, 10:43:38] [ERROR] Erro ao enviar para Advogado JOHN CARVALHO: Número não encontrado no WhatsApp: +55 77 99872-1260
+[21/08/2026, 10:43:38] [INFO] Aguardando 105s antes do próximo envio.
+[21/08/2026, 10:45:23] [ERROR] Erro ao enviar para Weliton's Advogados & Associados: Número não encontrado no WhatsApp: +55 77 99812-4299
+[21/08/2026, 10:45:23] [INFO] Aguardando 104s antes do próximo envio.
+[21/08/2026, 10:47:08] [INFO] Enviado para SPO ADVOCACIA (+55 77 98132-7092)
+[21/08/2026, 10:47:08] [INFO] Aguardando 64s antes do próximo envio.
+[21/08/2026, 10:48:12] [INFO] Enviado para Helbert Santos Advocacia (+55 77 98839-4783)
+[21/08/2026, 10:48:12] [INFO] Aguardando 110s antes do próximo envio.
+[21/08/2026, 10:50:02] [ERROR] Erro ao enviar para Oliveira Almeida Sociedade de Advogados: Número não encontrado no WhatsApp: +55 77 99919-7292
+[21/08/2026, 10:50:02] [INFO] Aguardando 64s antes do próximo envio.
+[21/08/2026, 10:51:07] [INFO] Enviado para Pessoa Jurídico - Assessoria Jurídica (+55 77 99181-3677)
+[21/08/2026, 10:51:07] [INFO] Aguardando 119s antes do próximo envio.
+[21/08/2026, 10:53:06] [INFO] Enviado para Marcos Amorim advogado criminalista 24 horas (+55 77 98809-1666)
+[21/08/2026, 10:53:06] [INFO] Aguardando 92s antes do próximo envio.
+[21/08/2026, 10:54:39] [ERROR] Erro ao enviar para Carvalho Brito Advogados Associados: Número não encontrado no WhatsApp: +55 77 3422-6417
+[21/08/2026, 10:54:39] [INFO] Aguardando 95s antes do próximo envio.
+[21/08/2026, 10:56:14] [INFO] Enviado para Prado Advocacia (+55 77 98108-5665)
+[21/08/2026, 10:56:14] [INFO] Aguardando 85s antes do próximo envio.
+[21/08/2026, 10:57:40] [INFO] Enviado para Cincurá Advogados Associados (+55 77 3421-8446)
+[21/08/2026, 10:57:40] [INFO] Aguardando 113s antes do próximo envio.
+[21/08/2026, 10:59:33] [INFO] Enviado para Pinheiro Advogados Associados (+55 77 99177-4080)
+[21/08/2026, 10:59:33] [INFO] Aguardando 103s antes do próximo envio.
+[21/08/2026, 11:01:17] [INFO] Enviado para Náfille Brito - Advocacia (+55 77 99152-9637)
+[21/08/2026, 11:01:17] [INFO] Aguardando 96s antes do próximo envio.
+[21/08/2026, 11:02:54] [INFO] Enviado para João Rafael Amorim - Advogados (+55 77 99960-2847)
+[21/08/2026, 11:02:54] [INFO] Aguardando 118s antes do próximo envio.
+[21/08/2026, 11:04:53] [INFO] Enviado para Macedo & Macedo, Brandão Castaldi - MMBC (+55 77 3424-7770)
+[21/08/2026, 11:04:53] [INFO] Aguardando 107s antes do próximo envio.
+[21/08/2026, 11:06:40] [INFO] Enviado para Matheus Andrade Advogados (+55 77 99123-4269)
+[21/08/2026, 11:06:40] [INFO] Aguardando 112s antes do próximo envio.
+[21/08/2026, 11:08:32] [ERROR] Erro ao enviar para Dr. Romulo Rocha Alves: Número não encontrado no WhatsApp: +55 77 99116-9200
+[21/08/2026, 11:08:32] [INFO] Aguardando 79s antes do próximo envio.
+[21/08/2026, 11:09:51] [INFO] Enviado para Laina Freire Advogacia (+55 77 98123-9960)
+[21/08/2026, 11:09:51] [INFO] Aguardando 85s antes do próximo envio.
+[21/08/2026, 11:11:17] [INFO] Enviado para Mattos & Miranda Advocacia (+55 77 98106-4444)
+[21/08/2026, 11:11:17] [INFO] Aguardando 80s antes do próximo envio.
+[21/08/2026, 11:12:37] [ERROR] Erro ao enviar para Edgard Larry Andrade Soares: Número não encontrado no WhatsApp: +55 77 3424-6789
+[21/08/2026, 11:12:37] [INFO] Aguardando 62s antes do próximo envio.
+[21/08/2026, 11:13:39] [ERROR] Erro ao enviar para Núcleo de Prática Jurídica da FAINOR: Número não encontrado no WhatsApp: +55 77 3161-1099
+[21/08/2026, 11:13:39] [INFO] Aguardando 108s antes do próximo envio.
+[21/08/2026, 11:15:28] [INFO] Enviado para Raffael Lima Advocacia (+55 77 99177-0886)
+[21/08/2026, 11:15:28] [INFO] Aguardando 85s antes do próximo envio.
+[21/08/2026, 11:16:53] [ERROR] Erro ao enviar para Ruy Medeiros Assessoria Jurídica: Número não encontrado no WhatsApp: +55 77 3421-4805
+[21/08/2026, 11:16:53] [INFO] Aguardando 100s antes do próximo envio.
+[21/08/2026, 11:18:33] [ERROR] Erro ao enviar para Ademir Oliveira Góes: Número não encontrado no WhatsApp: +55 77 3421-1453
+[21/08/2026, 11:18:33] [INFO] Aguardando 79s antes do próximo envio.
+[21/08/2026, 11:19:53] [INFO] Enviado para Naiane Silva Advocacia (+55 77 99101-4177)
+[21/08/2026, 11:19:53] [INFO] Aguardando 67s antes do próximo envio.
+[21/08/2026, 11:21:01] [INFO] Enviado para Silva & Feitoza - Advogados (+55 77 99174-3267)
+[21/08/2026, 11:21:01] [INFO] Aguardando 76s antes do próximo envio.
+[21/08/2026, 11:22:19] [INFO] Enviado para Danilo Rocha Advocacia (+55 77 98128-3249)
+[21/08/2026, 11:22:19] [INFO] Aguardando 83s antes do próximo envio.
+[21/08/2026, 11:23:42] [INFO] Enviado para KAEGELA ROCHA ADVOGADOS (+55 77 99867-3189)
+[21/08/2026, 11:23:42] [INFO] Aguardando 88s antes do próximo envio.
+[21/08/2026, 11:25:11] [INFO] Enviado para Ana Goncalves Advocacia Extrajudicial (+55 77 99152-6555)
+[21/08/2026, 11:25:11] [INFO] Aguardando 90s antes do próximo envio.

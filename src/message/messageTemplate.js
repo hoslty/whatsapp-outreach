@@ -21,16 +21,17 @@ const SAUDACOES = [
 const INTRODUCAO = 'Me chamo Pedro, trabalho criando sites profissionais para escritórios de advocacia aqui na região.';
 
 // 3. Corpo padrão (área não identificada).
+//    OBS: o CTA de "mandar um exemplo" fica só no FECHO, para não repetir.
 const CORPO_PADRAO = {
   semSite: (nome) =>
-    `Se eu te mandar um exemplo de uma página que fiz para uma advocacia, você dá uma olhada?.`,
+    `Vi que o escritório ainda não tem um site próprio.`,
   soRedeSocial: (nome) =>
-    `Se eu te mandar um exemplo de uma página que fiz para uma advocacia, você dá uma olhada?.`,
+    `Vi o perfil do escritório nas redes sociais, mas ainda não encontrei um site próprio.`,
 };
 
 // 4. Corpo com área de atuação identificada.
-const CORPO_COM_AREA = (nome, area, cidade) => 
-  `Vi que seu pefil atua com ${area} em ${cidade} e ainda não tem site, isso ajuda bastante a atrair quem já busca advogado de ${area} no Google.`;
+const CORPO_COM_AREA = (nome, area, cidade) =>
+  `Vi que o escritório atua com ${area} aqui em ${cidade} e ainda não tem um site próprio.`;
 
 const FECHO = 'Se eu te mandar um exemplo de uma página que fiz para uma advocacia, você dá uma olhada?';
 
