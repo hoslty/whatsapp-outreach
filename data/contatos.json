@@ -1,618 +1,906 @@
 [
   {
-    "telefone": "+55 77 99870-0064",
-    "nome": "Advogado criminalista em Vitória da Conquista - Dalila Prates",
-    "categoria": "Advogado criminal",
-    "temSite": "Não (só rede social)",
-    "linkSite": "https://www.instagram.com/dalilaprates_/",
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98815-0758",
-    "nome": "Advogado Ikaro Costa",
-    "categoria": "Advogado criminal",
+    "telefone": "+55 75 99100-0771",
+    "nome": "Araujo e Falcão - Advogados Trabalhista e Consumidor",
+    "categoria": "Serviços jurídicos",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 98807-9521",
-    "nome": "Isabelle Freitas - Advocacia Criminal",
-    "categoria": "Advogado criminal",
-    "temSite": "Não (só rede social)",
-    "linkSite": "https://www.instagram.com/isabellecfreitas.adv/",
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99193-3694",
-    "nome": "Hiram Filho - Advocacia Criminal",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99839-0335",
-    "nome": "Paulo Soares Advogado Trabalhista",
+    "telefone": "+55 75 3226-4849",
+    "nome": "Advogados Trabalhistas - Feira de Santana BA",
     "categoria": "Advogado trabalhista",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 98109-7621",
-    "nome": "Hannah Brazão - Advogada 24 horas",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99915-3232",
-    "nome": "Dra. Flávia Duque | Advogada",
-    "categoria": "Advogado trabalhista",
-    "temSite": "Não (só rede social)",
-    "linkSite": "https://wa.me/5577999153232?text=",
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99987-1303",
-    "nome": "MONTEIRO, SANTOS E ROSA",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 3082-8981",
-    "nome": "Lívia Cathalá - Advogada de inventário e imóveis",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98141-1000",
-    "nome": "Escritório de Advocacia Dr. Renato Menezes",
-    "categoria": "Advogado de Direito de Família",
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99127-6191",
-    "nome": "Rafael Leite Advogado",
-    "categoria": "Advogado de Direito de Família",
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99151-7816",
-    "nome": "Maria Aguiar | Advocacia Previdenciária",
-    "categoria": "Advogado previdenciário",
-    "temSite": "Não (só rede social)",
-    "linkSite": "https://www.instagram.com/mariaaguiar.adv/",
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98801-9505",
-    "nome": "Marcone Portela - Advogados Associados",
-    "categoria": "Advogado previdenciário",
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98129-9623",
-    "nome": "Carvalho & Tamandaré Advocacia",
-    "categoria": "Advogado previdenciário",
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99196-9045",
-    "nome": "Matos Sociedade de Advocacia",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99908-2443",
-    "nome": "Priscilla Lacerda - Advogada Previdenciária",
-    "categoria": null,
-    "temSite": "Não (só rede social)",
-    "linkSite": "https://www.instagram.com/priscillalacerda.adv/",
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99956-1919",
-    "nome": "Gabriela Cabral Santos Advogada previdenciarista",
-    "categoria": "Advogado previdenciário",
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99992-9916",
-    "nome": "Advogada Ana Paula Rocha",
-    "categoria": "Advogado de Direito de Família",
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 3421-5726",
-    "nome": "Advprev",
-    "categoria": "Advogado previdenciário",
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98843-3195",
-    "nome": "Resende Advogados Associados",
-    "categoria": "Advogado previdenciário",
-    "temSite": "Não (só rede social)",
-    "linkSite": "https://www.instagram.com/resendeadvogadosassociadosadv/",
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98813-6845",
-    "nome": "JVS & BONONI ADVOGADOS",
-    "categoria": "Advogado previdenciário",
-    "temSite": "Não (só rede social)",
-    "linkSite": "https://www.instagram.com/jvsadvogado",
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 71 99238-9236",
-    "nome": "Yuri Vieira Advocacia Previdenciária",
-    "categoria": "Advogado previdenciário",
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98119-4526",
-    "nome": "ALBANO E CERQUEIRA ADVOCACIA",
-    "categoria": "Advogado previdenciário",
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98832-2560",
-    "nome": "Erick Silveira - ADVOGADO CRIMINALISTA",
-    "categoria": "Advogado criminal",
-    "temSite": "Não (só rede social)",
-    "linkSite": "https://www.instagram.com/adv.ericksilveira/",
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 3421-2551",
-    "nome": "Sociedade Civil Trabalhista",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99141-4636",
-    "nome": "Rosana N. Almeida",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98164-7336",
-    "nome": "ANDRADE PORTO & PÚBLIO - ADVOCACIA",
-    "categoria": null,
-    "temSite": "Não (só rede social)",
-    "linkSite": "https://www.instagram.com/andradepublio.adv/",
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98802-1326",
-    "nome": "Paulo de Tarso Advogados Associados",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98836-0250",
-    "nome": "Rocha Advogados",
-    "categoria": null,
-    "temSite": "Não (só rede social)",
-    "linkSite": "https://www.instagram.com/tiagosilvarocha",
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99872-1260",
-    "nome": "Advogado JOHN CARVALHO",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98867-2525",
-    "nome": "AGO - Amaral, Guerra & Oliveira Advogados",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99951-7229",
-    "nome": "Advogado - Dr. Emerson Moreira",
-    "categoria": null,
-    "temSite": "Não (só rede social)",
-    "linkSite": "https://www.instagram.com/emerson_moreira_advogado",
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99905-6215",
-    "nome": "Figueredo & Flôres Advocacia",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99115-2182",
-    "nome": "Advogada - Fernanda Oliveira",
-    "categoria": "Advogado previdenciário",
-    "temSite": "Não (só rede social)",
-    "linkSite": "https://instagram.com/adv_fernanda.oliveira",
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99819-0339",
-    "nome": "POLIANA SANDES ADVOCACIA",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98826-1222",
-    "nome": "Tássio Menezes - Advogado",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99192-3968",
-    "nome": "Kádidja Rocha Advocacia Previdenciária",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99852-3461",
-    "nome": "Rodrigues Leite advocacia",
-    "categoria": "Advogado previdenciário",
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99812-4299",
-    "nome": "Weliton's Advogados & Associados",
-    "categoria": "Advogado previdenciário",
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99876-5589",
-    "nome": "LUIS CLAUDIO MATOS FERRAZ",
-    "categoria": "Advogado criminal",
-    "temSite": "Não (só rede social)",
-    "linkSite": "https://www.instagram.com/luisclaudioferraz.adv/",
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98160-2819",
-    "nome": "Advogada Raisa Brito Nunes",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99933-1281",
-    "nome": "NCB advogados associados",
-    "categoria": "Advogado criminal",
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99211-8101",
-    "nome": "Guimarães & Dutra Advocacia",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 73 99131-7787",
-    "nome": "Tailan Ribeiro | Advocacia Previdenciária",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98143-9333",
-    "nome": "Dantas & Marques Advogados",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98844-4191",
-    "nome": "Ramos & Oliveira Advogados",
-    "categoria": "Advogado previdenciário",
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 71 98790-6333",
-    "nome": "Ana Magalhães Advocacia",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98107-7317",
-    "nome": "Araújo & Lopes Advocacia",
-    "categoria": "Advogado previdenciário",
-    "temSite": "Não (só rede social)",
-    "linkSite": "https://wa.me/message/EQBBR3KTHMC6H1",
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98812-2128",
-    "nome": "Túllio Mikael Nolasco Advocacia",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98132-7092",
-    "nome": "SPO ADVOCACIA",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98839-4783",
-    "nome": "Helbert Santos Advocacia",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99919-7292",
-    "nome": "Oliveira Almeida Sociedade de Advogados",
-    "categoria": "Advogado criminal",
-    "temSite": "Não (só rede social)",
-    "linkSite": "https://instagram.com/oliveiraalmeida.adv",
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 99181-3677",
-    "nome": "Pessoa Jurídico - Assessoria Jurídica",
-    "categoria": "Advogado criminal",
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98809-1666",
-    "nome": "Marcos Amorim advogado criminalista 24 horas",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 3422-6417",
-    "nome": "Carvalho Brito Advogados Associados",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 98108-5665",
-    "nome": "Prado Advocacia",
-    "categoria": null,
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
-  },
-  {
-    "telefone": "+55 77 3421-8446",
-    "nome": "Cincurá Advogados Associados",
+    "telefone": "+55 75 98885-4545",
+    "nome": "Jaqueline Guimarães",
     "categoria": "Advogado trabalhista",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 99177-4080",
-    "nome": "Pinheiro Advogados Associados",
-    "categoria": null,
+    "telefone": "+55 75 98262-7861",
+    "nome": "Advogada e Consultora Jurídica | Beatriz Mendes",
+    "categoria": "Advogado trabalhista",
+    "temSite": "Só rede social",
+    "linkSite": "https://www.instagram.com/mendessbeatriz_?igsh=OGx2YnJlZDFqcHJo",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3486-2190",
+    "nome": "- Advocacia Previdenciária Trabalhista",
+    "categoria": "Advogado",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 99152-9637",
-    "nome": "Náfille Brito - Advocacia",
-    "categoria": null,
+    "telefone": "+55 75 99197-5200",
+    "nome": "TL Advocacia e Assessoria",
+    "categoria": "Advogado previdenciário",
+    "temSite": "Só rede social",
+    "linkSite": "https://www.instagram.com/tladvocaciaeassessoria/",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99700-5763",
+    "nome": "Paulo de Oliveira Advocacia",
+    "categoria": "Advogado trabalhista",
+    "temSite": "Só rede social",
+    "linkSite": "https://www.instagram.com/pauloliveira.adv/",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99133-7058",
+    "nome": "Carvalho Netto Advocacia Previdenciária",
+    "categoria": "Advogado previdenciário",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 99960-2847",
-    "nome": "João Rafael Amorim - Advogados",
-    "categoria": null,
+    "telefone": "+55 75 98130-6818",
+    "nome": "Souza & Leal Advocacia e Assessoria Jurídica",
+    "categoria": "Advogado previdenciário",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 3424-7770",
-    "nome": "Macedo & Macedo, Brandão Castaldi - MMBC",
-    "categoria": null,
+    "telefone": "+55 75 99938-4400",
+    "nome": "Advogado em Feira de Santana | Fernandes & Souza Advogados",
+    "categoria": "Serviços jurídicos",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 99123-4269",
-    "nome": "Matheus Andrade Advogados",
-    "categoria": null,
+    "telefone": "+55 75 3024-6886",
+    "nome": "Advocacia Previdenciária",
+    "categoria": "Advogado previdenciário",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 99116-9200",
-    "nome": "Dr. Romulo Rocha Alves",
-    "categoria": null,
+    "telefone": "+55 75 98266-9559",
+    "nome": "CLAUDIA RAQUEL ADVOGADA PREVIDENCIARISTA",
+    "categoria": "Serviços jurídicos",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 98123-9960",
-    "nome": "Laina Freire Advogacia",
-    "categoria": null,
+    "telefone": "+55 75 99120-8838",
+    "nome": "ADVOCACIA PREVIDENCIÁRIA Dr. Eduardo Costa",
+    "categoria": "Advogado previdenciário",
+    "temSite": "Só rede social",
+    "linkSite": "https://api.whatsapp.com/send?phone=5575991208838",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99888-0785",
+    "nome": "Claudia Chaves - Advocacia Previdenciária",
+    "categoria": "Advogado",
+    "temSite": "Só rede social",
+    "linkSite": "https://www.instagram.com/claudia.rs.chaves.adv/",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98371-4991",
+    "nome": "Dra. Estefane Alves | Advogada",
+    "categoria": "Advogado previdenciário",
+    "temSite": "Só rede social",
+    "linkSite": "https://wa.me/75983714991",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 74 98118-4998",
+    "nome": "Kaillany Camacam - Advogada atuante em Direito Médico e da Saúde",
+    "categoria": "Advogado especialista em direito médico",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 98106-4444",
-    "nome": "Mattos & Miranda Advocacia",
-    "categoria": "Advogado de Direito de Família",
+    "telefone": "+55 75 3303-0260",
+    "nome": "Araújo E Braz Escritório de Advocacia",
+    "categoria": "Serviços jurídicos",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 3424-6789",
-    "nome": "Edgard Larry Andrade Soares",
-    "categoria": null,
+    "telefone": "+55 75 99922-6985",
+    "nome": "GOMES RIBEIRO - Advocacia e Assessoria Jurídica",
+    "categoria": "Advogado",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 3161-1099",
-    "nome": "Núcleo de Prática Jurídica da FAINOR",
-    "categoria": null,
+    "telefone": "+55 75 98186-9703",
+    "nome": "Martins e Nascimento - Advocacia e Consultoria",
+    "categoria": "Advogado",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 99177-0886",
-    "nome": "Raffael Lima Advocacia",
-    "categoria": null,
+    "telefone": "+55 75 99204-1584",
+    "nome": "Larissa Almeida - Advocacia e Consultoria Jurídica",
+    "categoria": "Advogado",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 3421-4805",
-    "nome": "Ruy Medeiros Assessoria Jurídica",
-    "categoria": null,
+    "telefone": "+55 75 3021-1393",
+    "nome": "Ferreira & Mendes Advogados Associados",
+    "categoria": "Serviços jurídicos",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 3421-1453",
-    "nome": "Ademir Oliveira Góes",
-    "categoria": null,
+    "telefone": "+55 75 98149-2425",
+    "nome": "ADVOCACIA ALEXANDRE BRANDÃO LIMA",
+    "categoria": "Advogado",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 99101-4177",
-    "nome": "Naiane Silva Advocacia",
+    "telefone": "+55 75 99130-5061",
+    "nome": "Josiane Batista | ADVOCACIA IMOBILIÁRIA",
+    "categoria": "Advogado imobiliário",
+    "temSite": "Só rede social",
+    "linkSite": "https://wa.me/5575991305061",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3021-0926",
+    "nome": "Dr. Péricles Novais",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3211-7077",
+    "nome": "Falconery Rios Advogados Associados",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3491-0515",
+    "nome": "Lustosa Advocacia - Assessoria e Consultoria Jurídica",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Só rede social",
+    "linkSite": "https://www.instagram.com/lustosaadvocacia/",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3226-4849",
+    "nome": "Escritório de Advocacia - Feira de Santana",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99887-4093",
+    "nome": "Ingrid Souza Advocacia e assessoria jurídica",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 71 99646-0642",
+    "nome": "Escritório de Advocacia - Feira de Santana",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99192-0424",
+    "nome": "Serra & Leite Advocacia",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99145-4441",
+    "nome": "Barros e Costa Advocacia e Consultoria",
+    "categoria": "Advogado imobiliário",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99142-5555",
+    "nome": "Advogados Divórcios Feira de Santana",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99972-3326",
+    "nome": "RG Advogados Associados",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3021-1484",
+    "nome": "Veloso e Gomes Advocacia",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3623-3712",
+    "nome": "Adessil Guimarães Advogados Associados",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99205-5150",
+    "nome": "Góes & Filgueiras Assessoria Jurídica",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99179-1212",
+    "nome": "Alex Ribeiro Escritório de Advocacia.",
+    "categoria": "Advogado",
+    "temSite": "Só rede social",
+    "linkSite": "https://www.instagram.com/alexribeiro.adv/",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99130-5061",
+    "nome": "Advogado Direito Imobiliário em Feira de Santana",
+    "categoria": "Advogado imobiliário",
+    "temSite": "Só rede social",
+    "linkSite": "https://wa.me/5575991305061",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99916-0086",
+    "nome": "LBMR ADVOCACIA CONDOMINIAL",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Só rede social",
+    "linkSite": "https://instagram.com/lbmradvocacia",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98192-4839",
+    "nome": "Julio Gomes Advogado",
+    "categoria": "Escritório de advocacia",
+    "temSite": "Só rede social",
+    "linkSite": "https://www.instagram.com/julio.gomes.adv",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99197-6000",
+    "nome": "Felipe Carvalho Advocacia",
+    "categoria": "Advogado criminal",
+    "temSite": "Só rede social",
+    "linkSite": "https://advfelipecarvalho.my.canva.site/",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3199-0650",
+    "nome": "Verbenia Carneiro | Isadora Araujo Advogados Associados",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98898-4396",
+    "nome": "BARBARA LEMOS SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Só rede social",
+    "linkSite": "https://wa.me/message/LOQU64ZWB5UXG1",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3614-8671",
+    "nome": "CSO Advogados Associados",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99996-0606",
+    "nome": "DR MURILLO SANTANA - ADVOCACIA ESPECIALIZADA",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Só rede social",
+    "linkSite": "https://www.instagram.com/murillosantana.adv/",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98851-9497",
+    "nome": "Odejane Franco & Advogados Associados",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99973-3334",
+    "nome": "ADVOCAR - Advocacia de Trânsito",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98101-4462",
+    "nome": "Guga Leal Advogado Criminal Leal Assessoria Jurídica",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99199-6893",
+    "nome": "AMB Advocacia",
+    "categoria": "Escritório de advocacia",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99872-6683",
+    "nome": "Escritório Mariana Coelho Advogada",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99224-0058",
+    "nome": "De Jesus e Correia | Escritório de Advocacia em Feira de Santana/BA",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98101-2824",
+    "nome": "Escritório de advocacia Pecorelli & Rosa",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99201-3733",
+    "nome": "Dantas Simas Advocacia",
+    "categoria": "Escritório de advocacia",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98197-5555",
+    "nome": "ADVOGADOS DIREITO ADMINISTRATIVO FEIRA DE SANTANA BA",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3225-4212",
+    "nome": "Escritórios de Advogados | Murilo Carneiro | Francis Lima",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99988-4585",
+    "nome": "Gomes e Gomes",
+    "categoria": "Escritório da empresa",
+    "temSite": "Só rede social",
+    "linkSite": "https://www.instagram.com/gomesegomesadvogados/",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99135-8070",
+    "nome": "Boaventura & Grisi Advocacia",
+    "categoria": "Escritório de advocacia",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98148-2709",
+    "nome": "Arnaldo Bastos - Advocacia",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98885-4545",
+    "nome": "Guimarães Araújo - Advocacia",
+    "categoria": "Advogado",
+    "temSite": "Só rede social",
+    "linkSite": "https://www.instagram.com/gaadvocacia_/",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98105-0237",
+    "nome": "Adorno e Oliveira Advocacia e Assessoria Jurídica",
+    "categoria": "Escritório de advocacia",
+    "temSite": "Só rede social",
+    "linkSite": "https://calendar.app.google/qfbAhNQTaPJJoyob8",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99194-3452",
+    "nome": "Maitê Cruz - Escritório de Advocacia",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3626-7851",
+    "nome": "Erimá Ramos Advogados",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99224-8945",
+    "nome": "Marco & Melo Advocacia",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Só rede social",
+    "linkSite": "https://www.facebook.com/marcoemelo.adv",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3301-7336",
+    "nome": "Walter Fernandes Junior Advocacia",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 71 99379-2479",
+    "nome": "Luis Barros Advocacia",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Só rede social",
+    "linkSite": "https://taplink.cc/luisbarrosadvocacia",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99127-3034",
+    "nome": "Escritório Advocacia Dra. Rosemy de Oliveira Santos",
+    "categoria": "Advogado",
+    "temSite": "Só rede social",
+    "linkSite": "https://www.instagram.com/rosemydeoliveira/",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99273-7300",
+    "nome": "Othávio Lemos Advocacia",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Só rede social",
+    "linkSite": "https://www.instagram.com/othaviolemos.adv/",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99110-4223",
+    "nome": "Freire, Mello & Brito - Advocacia e Consultoria Jurídica",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3225-3588",
+    "nome": "Moreira e Moreira Advogados Associados",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3623-7800",
+    "nome": "Almeida Rodrigues Advocacia",
+    "categoria": "Escritório de advocacia",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99231-3630",
+    "nome": "Yanne Lopes - Escritório de Advocacia",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99969-6571",
+    "nome": "MSF - Moura, Sandes & Falcão Advogados Associados",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99972-9098",
+    "nome": "Escritório de Advocacia - Emanoel Júnior",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99199-6725",
+    "nome": "NEKITA PEREIRA",
+    "categoria": "Advogado previdenciário",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98191-7684",
+    "nome": "Santos & Menezes advocacia especializada",
+    "categoria": "Advogado previdenciário",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 62 3299-5832",
+    "nome": "ADVOCACIA PREVIDENCIÁRIA",
+    "categoria": "Advogado previdenciário",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99167-3755",
+    "nome": "Amanda Amorim - Direito Previdenciário e Direito de Família",
+    "categoria": "Advogado",
+    "temSite": "Só rede social",
+    "linkSite": "https://www.instagram.com/amanda.amorim.adv/",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99839-7734",
+    "nome": "Elaine Jordão - Advogada Previdenciária",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3024-1100",
+    "nome": "Dr Ayala Macedo Carigé",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99290-7635",
+    "nome": "Santos e Moreira Advocacia e Assessoria Jurídica",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98203-5225",
+    "nome": "Nubiana Reis Advogada",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Só rede social",
+    "linkSite": "https://taplink.cc/nubianareisadv",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3626-8619",
+    "nome": "Aposentar Soluções Previdenciárias",
+    "categoria": "Consultoria",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99165-4354",
+    "nome": "OLN ADVOCACIA PREVIDENCIARIA",
+    "categoria": "Escritório de advocacia",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98152-2982",
+    "nome": "Bastos e Marques Porto Advogados Associados",
+    "categoria": "Advogado previdenciário",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99204-1057",
+    "nome": "Bittencourt e Carvalho Advocacia Previdenciária e Trabalhista e Especializada",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99203-1776",
+    "nome": "Maia e Martins Advogados Associados",
     "categoria": "Advogado trabalhista",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 99174-3267",
-    "nome": "Silva & Feitoza - Advogados",
-    "categoria": null,
+    "telefone": "+55 75 99158-6127",
+    "nome": "Thaize Barros advocacia",
+    "categoria": "Advogado trabalhista",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 98128-3249",
-    "nome": "Danilo Rocha Advocacia",
-    "categoria": null,
+    "telefone": "+55 75 98147-1025",
+    "nome": "Rebeca Lima Advocacia",
+    "categoria": "Advogado",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 99867-3189",
-    "nome": "KAEGELA ROCHA ADVOGADOS",
-    "categoria": null,
+    "telefone": "+55 75 99235-5707",
+    "nome": "Lucas Fonseca Sociedade Individual de Advocacia",
+    "categoria": "Advogado trabalhista",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 99152-6555",
-    "nome": "Ana Goncalves Advocacia Extrajudicial",
-    "categoria": "Advogado de Direito de Família",
+    "telefone": "+55 75 99866-4755",
+    "nome": "Correia Advogados",
+    "categoria": "Advogado",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 99920-0083",
-    "nome": "DG Guimaraes Advocacia",
-    "categoria": "Advogado de Direito de Família",
-    "temSite": "Não",
-    "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "telefone": "+55 71 99353-1011",
+    "nome": "DB Advocacia Trabalhista",
+    "categoria": "Advogado trabalhista",
+    "temSite": "Só rede social",
+    "linkSite": "https://sites.google.com/view/danielbatulevicins",
+    "cidade": "Feira de Santana"
   },
   {
-    "telefone": "+55 77 98814-9701",
-    "nome": "Andressa Caires - Advocacia",
-    "categoria": null,
+    "telefone": "+55 75 99263-8880",
+    "nome": "Geovana Nascimento - Advogada Previdenciária",
+    "categoria": "Advogado",
     "temSite": "Não",
     "linkSite": null,
-    "cidade": "Vitória da Conquista"
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98192-3491",
+    "nome": "Diana Pereira - Advogada",
+    "categoria": "Advogado trabalhista",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3011-9026",
+    "nome": "Assessoria Carmo",
+    "categoria": "Advogado previdenciário",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 71 98627-6140",
+    "nome": "Ygor Roger e Diego Oliveira Sociedade de Advogados",
+    "categoria": "Advogado trabalhista",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99275-4500",
+    "nome": "CINTRA & SÁ ADVOCACIA PREVIDENCIÁRIA",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3024-1010",
+    "nome": "Themys Brito & Advogados Associados",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98145-7888",
+    "nome": "BIÃO & PEDREIRA- Advocacia e Assessoria Jurídica",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Só rede social",
+    "linkSite": "https://www.instagram.com/biaoepedreira/",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 71 99166-6588",
+    "nome": "Alessandro Silva & Advogados Associados",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99231-9381",
+    "nome": "José Roustaing Advocacia Especializada",
+    "categoria": "Advogado previdenciário",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98852-1313",
+    "nome": "Mascarenhas & Santos Advogados Trabalhista e Eleitoral",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99140-8786",
+    "nome": "Lorena Peixoto Mendes Advogada",
+    "categoria": "Advogado trabalhista",
+    "temSite": "Só rede social",
+    "linkSite": "https://beacons.ai/lorenapeixoto",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99187-4848",
+    "nome": "Márcio Miranda Advogados Associados",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3221-5684",
+    "nome": "Dr João Pedro Borges e Advogados",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99873-4209",
+    "nome": "KV-Escritório de Advocacia & Associados",
+    "categoria": "Advogado trabalhista",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 98118-9633",
+    "nome": "Dra. Juliana Moraes Falcão - Advogada Trabalhista",
+    "categoria": "Advogado",
+    "temSite": "Só rede social",
+    "linkSite": "https://www.instagram.com/julianamoraes.jus/",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99250-8539",
+    "nome": "Ketlen Rodrigues Advocacia",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99199-0343",
+    "nome": "Carvalho & Oliver Advocacia",
+    "categoria": "Advogado(a) empresarial",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 3030-1948",
+    "nome": "Carvalho Jr. Advocacia & Consultoria",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99192-8096",
+    "nome": "Menoli Advocacia",
+    "categoria": "Advogado",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99116-3144",
+    "nome": "Andréa Sarmento Advocacia",
+    "categoria": "Advogado criminal",
+    "temSite": "Só rede social",
+    "linkSite": "https://linktr.ee/andrea.sarmento",
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99125-8009",
+    "nome": "PIMENTEL GONÇALVES ADVOCACIA",
+    "categoria": "Serviços jurídicos",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
+  },
+  {
+    "telefone": "+55 75 99195-8703",
+    "nome": "Gondim & Sena Escritório de Advocacia",
+    "categoria": "Advogado(a) civil",
+    "temSite": "Não",
+    "linkSite": null,
+    "cidade": "Feira de Santana"
   }
 ]
