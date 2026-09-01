@@ -15,7 +15,7 @@ const config = {
   },
   interval: {
     minMinutes: Number(process.env.MIN_INTERVAL_MINUTES || 1),
-    maxMinutes: Number(process.env.MAX_INTERVAL_MINUTES || 2),
+    maxMinutes: Number(process.env.MAX_INTERVAL_MINUTES || 3),
   },
   logDir: process.env.LOG_DIR || './logs',
 };
